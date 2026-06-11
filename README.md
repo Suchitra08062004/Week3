@@ -197,6 +197,42 @@ Statistics:
 * Case-insensitive search
 
 ---
+## Screenshots
+
+### Main Menu
+
+**Screenshot File:** `Screenshots\Screenshot 2026-06-11 184420.png`
+
+---
+
+### Add New Contact
+
+**Screenshot File:** `Screenshots\Screenshot 2026-06-11 184514.png`
+
+---
+
+### Search Contact
+
+**Screenshot File:** `Screenshots\Screenshot 2026-06-11 184536.png`
+
+---
+
+### View All Contacts
+
+**Screenshot File:** `Screenshots\Screenshot 2026-06-11 184555.png`
+
+---
+
+### Contact Statistics
+
+**Screenshot File:** `Screenshots\Screenshot 2026-06-11 184625.png`
+
+---
+
+### Exit
+
+**Screenshot File:** `Screenshots\Screenshot 2026-06-11 184641.png`
+
 
 ## Challenges & Solutions
 
